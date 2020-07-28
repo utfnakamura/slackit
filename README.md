@@ -3,10 +3,10 @@ Copyright Fumitaka Nakamura, 2020
 
 1. Prerequisites
 Install following modules if you don't have some or all of them in your environment.
+(e.g. just type `sudo pip3 install slack` for example).
+
 - slack
 - flask
-with `sudo pip3 install slack`
-
 
 1. Create app
 
